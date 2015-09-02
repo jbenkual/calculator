@@ -1,0 +1,12 @@
+input {
+	text-align: right;
+}
+
+.btn:focus{
+    outline: none;
+       border-color: #ccc;
+    background-color: white;
+}
+
+#equals {
+}
